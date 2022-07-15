@@ -5,7 +5,7 @@ if U == "Funny" and P == "F3432":
 	print('---- Top 5 Best seller product ----')
 	print('EJMB01: Mouse Bluetooth      750 THB')
 	print('EJMP02: Mouse Pad            330 THB')
-	print('EJKB03: Keyboard Bluetooth 1,290 THB')
+	print('EJKB03: Keyboard Bluetooth 1,200 THB')
 	print('EJSI04: Stylus for ipad      950 THB')
 	print('EJCI05: Case Ipad Pro11    2,190 THB')
 	print('-----------------------------------')
